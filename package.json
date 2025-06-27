@@ -1,0 +1,9 @@
+{
+  "name": "turnos",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://nayrda.io/turnosCalendar", // ¡Cambia esto!
+  "dependencies": {
+    // ...
+  }
+}
